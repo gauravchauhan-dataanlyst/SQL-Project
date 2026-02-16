@@ -1,0 +1,25 @@
+# Netflix Data Analysis using SQL
+
+## Project Overview
+This project analyzes Netflix movies and TV shows data using SQL queries on a CSV dataset.
+
+## Dataset Information
+The dataset contains:
+- Release Year
+- Content Type (Movie / TV Show)
+- Total Titles
+
+## Analysis Performed
+- Count of total records
+- Comparison between Movies and TV Shows
+- Year-wise content trends
+- Latest content analysis
+
+## Tools Used
+- SQL
+- CSV Dataset
+- GitHub
+
+## Project Files
+- netflix data project.csv → Dataset
+- netflix_queries.sql → SQL queries used for analysis
